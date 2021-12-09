@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "report-do-inventory.html"
       href: report-do-inventory.html
 output:
   html_document:
